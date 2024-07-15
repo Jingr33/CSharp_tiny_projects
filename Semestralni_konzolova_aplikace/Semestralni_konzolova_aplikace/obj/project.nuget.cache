@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxGouoC/LJo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jirka\\Documents\\Jirka\\VŠ\\1ZS\\Úvod do programování a algoritmů\\Semestrální práce\\Semestralni_konzolova_aplikace\\Semestralni_konzolova_aplikace\\Semestralni_konzolova_aplikace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
