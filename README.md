@@ -2,9 +2,9 @@
 There are 3 small projects Fractals, Sudoku and Taylors polynomial written in C#.
 
 ## Table of contents
-* [Fractals] (#fractals)
-* [Sudoku] (#sudoku)
-* [Taylors polynomial] (#Taylors-polynomial)
+* [Fractals](#fractals)
+* [Sudoku](#sudoku)
+* [Taylors polynomial](#taylors-polynomial)
 
 ## Fractals
 This is a GUI app using Windows Forms framework.
